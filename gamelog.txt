@@ -4,3 +4,10 @@ Generating world using parameter set CREATE WORLD NOW = 4333324
  History Seed: LKYrqYD6KVzmfodAHXZU
  Name Seed: PXW1j0dt7CrMURR9trrI
  Creature Seed: wJiCyu2CAkedQDQ6aNvC
+** Starting New Outpost **
+There is nothing to catch in the northeastern swamps.
+Reg Limulvutok has become a Herbalist.
+You have struck lavender jade!
+Reg Limulvutok has become a Woodcutter.
+You have struck pink tourmaline!
+You have struck hematite!
